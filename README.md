@@ -5,10 +5,6 @@
 [![TextBlob](https://img.shields.io/badge/TextBlob-0.15+-green.svg)](https://textblob.readthedocs.io/)
 [![NLTK](https://img.shields.io/badge/NLTK-3.5+-orange.svg)](https://www.nltk.org/)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/ushmidave/readme-assets/main/sentiment-analysis.png" alt="Sentiment Analysis" width="500"/>
-</div>
-
 ## 📑 Overview
 
 The Sentiment Analysis Chatbot is an interactive web application that analyzes the emotional tone of text inputs. It provides users with insights about whether a given text expresses positive, negative, or neutral sentiment, along with polarity and subjectivity scores.
