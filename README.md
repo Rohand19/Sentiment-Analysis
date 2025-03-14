@@ -27,7 +27,7 @@ The Sentiment Analysis Chatbot is an interactive web application that analyzes t
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/sentiment-analysis.git
+   git clone https://github.com/Rohand19/sentiment-analysis.git
    cd sentiment-analysis
    ```
 
